@@ -1,0 +1,3 @@
+Tron	KEYWORD1
+andar	KEYWORD2
+velocidade		KEYWORD3
